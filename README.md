@@ -22,7 +22,7 @@
 
 #--------------------------------------------------------------------------------------------------------------------#
 
-Assignments 1 to 6
+**Assignments 1 to 6**
 
 project1 -  Mad libs Python Project  - [https://colab.research.google.com/drive/1aA_JGeHCYoRQXPlIl8GXkgvvyOXur6t2?usp=sharing]
 
